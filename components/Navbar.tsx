@@ -48,7 +48,7 @@ const Navbar: React.FC = () => {
                 </a>
               ))}
               <a 
-                href="/CV Alexander Theodore.pdf" 
+                href="https://drive.google.com/uc?export=download&id=1za--QWk9TJHUucmlhY2bwvfQa85eVXQ6" 
                 download
                 className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full text-sm font-medium transition-colors"
               >
@@ -83,7 +83,7 @@ const Navbar: React.FC = () => {
               </a>
             ))}
             <a 
-              href="https://drive.google.com/file/d/1za--QWk9TJHUucmlhY2bwvfQa85eVXQ6/view?usp=sharing" 
+              href="https://drive.google.com/uc?export=download&id=1za--QWk9TJHUucmlhY2bwvfQa85eVXQ6" 
               download
               className="block w-full text-center bg-blue-600 text-white px-3 py-2 rounded-md text-base font-medium mt-4"
             >
