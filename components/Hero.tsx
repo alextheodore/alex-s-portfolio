@@ -1,5 +1,5 @@
 import React from 'react';
-import { Download, Mail, ArrowRight, Code2, Server, BrainCircuit } from 'lucide-react';
+import { Download, Mail, Code2, Server, BrainCircuit } from 'lucide-react';
 import Section from './Section';
 
 const Hero: React.FC = () => {
@@ -43,8 +43,8 @@ const Hero: React.FC = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mt-12">
           <a 
-            href="/CV Alexander Theodore.pdf" 
-            download
+            href="/CV_AT.pdf" 
+            download="CV_Alexander_Theodore.pdf"
             className="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full font-semibold transition-all transform hover:scale-105"
           >
             <Download size={20} />
